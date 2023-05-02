@@ -1,0 +1,17 @@
+img {
+  width: 100%;
+}
+.food-item {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* box-shadow: 2px; */
+}
+.food-cards {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
